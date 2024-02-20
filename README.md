@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrianZapataMarin
 - 👀 I’m interested in get my first programming job
-- 🌱 I’m currently learning MERN (mongo, express, react, node)
+- 🌱 I’m currently learning MERN + Java + Oracle APEX & PL/SQL
 - 💞️ I’m looking to collaborate on apps dev
 - 📫 How to reach me: brianezm@gmail.com
 
